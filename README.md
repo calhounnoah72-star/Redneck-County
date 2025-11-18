@@ -3,3 +3,7 @@ Redneck County: Bottle-Cap Empire – Rev your rusty pickup through open-world R
 git config --global user.name "Sarah Davis"
 git config --global user.email "calhounnoah72@gmail.com"
 curl -s https://raw.githubusercontent.com/github/gitignore/master/Unity.gitignore -o .gitignore
+git remote add origin https://github.com/calhounnoah72/star
+.git
+git branch -M main
+git push -u origin main
